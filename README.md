@@ -1,4 +1,4 @@
-# Excel_Project-2
+# Coffee_Sales
 Welcome to the "Coffee Sales Data" project! In this Excel project.
 For this project I have utilized a dataset sourced from Kaggle.
 Leveraged advanced Excel functionalities such as XLookup and Index formulas to fetched and consolidated information from various sheets to ensure accuracy and efficiency in the calculations. 
